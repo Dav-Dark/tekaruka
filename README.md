@@ -41,15 +41,15 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 ```bash
 > download termux
 > buka
-> pkg install git
-> pkg install ffmpeg
-> pkg install nodejs
-> apt update && apt upgrade
-> git clone https://github.com/Dav-Dark/botwahp
-> cd botwahp
+> termux-setup-storage -y
+> pkg install git -y
+> pkg install ffmpeg -y
+> pkg install nodejs -y
+> apt update -y && apt upgrade -y
+> git clone https://github.com/Dav-Dark/tekaruka
+> cd tekaruka
 > npm i -g cwebp && npm i -g ytdl
 > npm i && npm i got
-> bash install.sh
 > node index.js
 ```
 
