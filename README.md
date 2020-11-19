@@ -17,7 +17,7 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 <p align="center">
 
-<a href="https://github.com/Dav-Dark."><img title="Author" src="https://img.shields.io/badge/Author-anonymus-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Dav-Dark."><img title="Author" src="https://img.shields.io/badge/Author-Tekaruka-red.svg?style=for-the-badge&logo=github"></a>
 
 </p>
 
