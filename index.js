@@ -13,7 +13,7 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'D4VB0T'; 
+const BotName = 'TekarukA'; 
 const instagram = 'https://instagram.com/davnedtdx'; 
 const telegram = 'https://t.me/davntedtx'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
